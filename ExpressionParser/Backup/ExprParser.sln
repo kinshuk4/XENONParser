@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExprParser", "ExprParser.csproj", "{B4BE89A0-63B2-41EB-A63B-322F473AFD8A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B4BE89A0-63B2-41EB-A63B-322F473AFD8A}.Debug.ActiveCfg = Debug|.NET
+		{B4BE89A0-63B2-41EB-A63B-322F473AFD8A}.Debug.Build.0 = Debug|.NET
+		{B4BE89A0-63B2-41EB-A63B-322F473AFD8A}.Release.ActiveCfg = Release|.NET
+		{B4BE89A0-63B2-41EB-A63B-322F473AFD8A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\bin\Debug\ExpressionParser.exe
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\bin\Debug\ExpressionParser.pdb
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ResolveAssemblyReference.cache
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ExpressionParser.Form1.resources
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ResGen.read.1.tlog
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ResGen.write.1.tlog
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ExpressionParser.exe
+D:\LYF\Dropbox\k2Backup\student\ProjectsMine\ExpressionParser\obj\Debug\ExpressionParser.pdb
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ExpressionParser.exe
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ExpressionParser.pdb
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\bin\Debug\ExpressionParser.exe
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\bin\Debug\ExpressionParser.pdb
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ResolveAssemblyReference.cache
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ExpressionParser.Form1.resources
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ResGen.read.1.tlog
+D:\LYF\Dropbox\k2Backup\student\git\ExpressionParser\obj\Debug\ResGen.write.1.tlog
